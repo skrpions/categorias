@@ -1,0 +1,19 @@
+[  
+    {  
+        "nombre":"Audio y video",
+        "articulos":[  
+            "Monitor Led",
+			"Parlante Bluetooth",
+			"Smart Tv 4k",
+			"Smart Tv 14k"
+        ]
+    },
+    {  
+        "nombre":"Ferreteria",
+        "articulos":[  
+            "Martillo",
+			"Grapas",
+			"Puntillas"
+        ]
+    }
+]
